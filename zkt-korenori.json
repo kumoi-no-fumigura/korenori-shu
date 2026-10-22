@@ -1,0 +1,626 @@
+{
+ "work": "是則集",
+ "work_id": "zkt-korenori",
+ "repo": "kumoi-no-fumigura/korenori-shu",
+ "yomi": "これのりしゅう",
+ "category": "私家集",
+ "kind": "kashu",
+ "era": "平安前期",
+ "author": "坂上是則",
+ "editions": [
+  {
+   "pid": "873676",
+   "title": "続国歌大観 歌集部 第二冊",
+   "editor": "松下大三郎 編",
+   "series": "続国歌大観",
+   "publisher": "",
+   "year": 1911,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/873676"
+  }
+ ],
+ "status": "未校正（續國歌大觀 第二冊の OCR から 1 首ずつ切り出し。歌番号は未確定）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zkt-korenori-0001",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "熊本女の許より心ざしの程をなむえ知らぬと申したりければ",
+   "author": "",
+   "text": "〓我懇を知むと思はヾ田子の浦に立くる波の數を數へよ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0002",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "亭子の院の歌合、柳",
+   "author": "",
+   "text": "た淺綠そめてみだれる靑柳の糸をば春の風やとくらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0003",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "山里の花を見て",
+   "author": "",
+   "text": "cm折取らば惜げにも有か櫻花いざ宿借て散る迄に見む",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0004",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "前栽の中に櫻の咲きたるを見て",
+   "author": "",
+   "text": "一櫻花けふよく見てむ吳竹の夜のまの程に散も社すれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0005",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "花惜む所にて",
+   "author": "",
+   "text": "ニ且見つゝ千年の春を慕す共いつかは花の色に他べき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0006",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "亭子の院の歌合に",
+   "author": "",
+   "text": "三花の色移し留めよ鏡山春の過なむ後も見るべくいパロ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0007",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "おなじ歌合に、桃",
+   "author": "",
+   "text": "三千歳になるてふ桃の今年より花咲春に逢にける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0008",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "鶯、亭子の院の歌合に",
+   "author": "",
+   "text": "ききつゝのみ鳴鶯の故〓は散りにし梅の花にざりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0009",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "松、まつのもとにこれかれ侍りて",
+   "author": "",
+   "text": "た深綠常磐の松の蔭にゐて移ろふ花をよそにこそ見れ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0010",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "夏ほとゝきす",
+   "author": "",
+   "text": "七山かつと人はいへども郭公まづ初聲は我のみぞ聞く",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0011",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "秋時雨、露、山、河、紅葉、菊、屬、亭子の院の歌合に、しぐれ",
+   "author": "",
+   "text": "初時雨ふる程もなく佐保山の梢數多に色づきにけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0012",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "爲、秋の野に露多く置きたる所",
+   "author": "",
+   "text": "〓秋の野に置白露の消ざらば玉に拔ても懸てみてまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0013",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "○○大方に置白露も今よりは心してこそ見るべかりけれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0014",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "山、秋山のぞむ、大井河の行幸に",
+   "author": "",
+   "text": "一秋の色は千種乍らにさやけきを誰か小倉の山と云覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0015",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "秋の水に浮ぶ大井河の行幸に",
+   "author": "",
+   "text": "「就方かとまり成らむ山風の拂ふ紅葉にふな感ひして",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0016",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "紅葉",
+   "author": "",
+   "text": "11系高み行て見るべき紅葉を我がゐ乍らも翳しつる哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0017",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "秋の歌とて詠める",
+   "author": "",
+   "text": ".佐保山の柞の色は薄けれど秋は深くもなりにける哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0018",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "紅葉大井河に散る、行幸あり",
+   "author": "",
+   "text": "紅葉の散りて流るゝ大井河せヾの白波影とヾめなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0019",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "如紅葉の流れざりせば立田河水の秋をば誰か知らまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0020",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "菊きくの花殘りたる、大井河の行幸に",
+   "author": "",
+   "text": "七影さへに今はた菊の移ろふは波の底にも霜や置らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0021",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "〓、旅の屬、大井河の行幸に",
+   "author": "",
+   "text": "メト幾千里ある道なれや秋ごとに雲居の旅を雁の鳴らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0022",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "刈てほす山田の稻のこき垂て鳴こそ渡れ秋のうければ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0023",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "冬雪、氷大和の國に罷りける時雪の降りければ",
+   "author": "",
+   "text": "〓朝ぼらけ有明の月と見る迄に吉野の山14に降れる白雪",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0024",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "奈良の京にまかりて宿る所に",
+   "author": "",
+   "text": "ユ三吉野の山の白雪積るらし故〓寒くなりまさるなり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0025",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "氷",
+   "author": "",
+   "text": "エ冬冬の池の上は氷に閉たるを爭でか月の底に見ゆらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0026",
+   "pid": "873676",
+   "pages": [
+    13
+   ],
+   "no": null,
+   "kotobagaki": "祝苦、嚴",
+   "author": "",
+   "text": "五君が代は天の羽衣稀にきてなづとも盡ぬ嚴ならなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0027",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "戀、知られず、知られたり、あふ、あひての後",
+   "author": "",
+   "text": "〓わわの原潜きて知らむ人知れず思ふ心の深さ比べに",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0028",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "我戀をくらぶの山の櫻花まなく散とも數はまさらじ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0029",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "xzを鹿臥夏野の草の道みえずハ\"繁き戀にも聖惑頭",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0030",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓〓秋山に朝立霧の峯こめて晴れずも物を思ふべらなる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0031",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓枯枯の淺芽がもとの刈黃のみだれて物を思ふ頃かな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0032",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓枕のみくつと思ひし涙河今はわが身の沈むなりけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0033",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓紅の色に移りてこひねとも涙のしるく見する也けり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0034",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓かつ消えぬ涙か磯の鮑故海てふ海はかづきつくしつ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0035",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ス片片を此方彼方により懸て逢ずば何を玉のをにせむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0036",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "谷川の岩間を狹み山川の音にのみやは聞き渡るべき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0037",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "戀しさの限だにある世也せば年へて物は思ざらまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0038",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "達事を長柄の橋の長らへて態渡るまに年ぞへにける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0039",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "あふ",
+   "author": "",
+   "text": "逢見ては慰むやとぞ思しを名殘しも社戀しかりけれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0040",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "逢ひての後あひ難き女に",
+   "author": "",
+   "text": "霧深き秋の野中の忘水たえまがちなる頃にもある哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0041",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓〓〓夜を唯ろまでのみ明す身は夢路とのみも賴まざり見",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0042",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "雜かぜ、わかな",
+   "author": "",
+   "text": "意るなよ別路に生る葛のはの秋風ふかば今歸りこむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0043",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "松、つる、かめ、さるえの松おいたる、大井河の行幸に",
+   "author": "",
+   "text": "〓此此の入江の松は老にけり古き行幸の〓とや問はまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0044",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "つる巢に立てり",
+   "author": "",
+   "text": "一山近みおりゐる雲と眞鶴の立てる河べも人や見らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0045",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "陛人に馴れたり、同じ行幸に",
+   "author": "",
+   "text": "一行く舟になるゝ鷗はさす神に返す水こそ過たれけれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-korenori-0046",
+   "pid": "873676",
+   "pages": [
+    14
+   ],
+   "no": null,
+   "kotobagaki": "さるかひになく、おなじ行幸に",
+   "author": "",
+   "text": "ニ秋秋のかひに見返り鳴聲を夜深く聞て袖ぞ濡れぬる",
+   "sachu": "",
+   "jo": ""
+  }
+ ]
+}
