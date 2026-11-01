@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 46,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-korenori-0001",
@@ -695,7 +698,7 @@
   "blocks": 46,
   "chars": 1059,
   "poems": 46,
-  "yaku": 0,
+  "yaku": 46,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T21:24:37+09:00"
